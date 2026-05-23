@@ -39,19 +39,6 @@ directly to any PCB fab service (JLCPCB, PCBWay, etc.)
 
 ---
 
-## 🖼️ Preview
-
-
-![Schematic](schematic view.png)
-
-
-
-
-![PCB Layout](pcb.png)
-
-
-
----
 
 ## 🚀 What I Learned
 - KiCad schematic entry and symbol placement
