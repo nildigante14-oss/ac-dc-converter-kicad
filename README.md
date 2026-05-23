@@ -46,6 +46,8 @@ directly to any PCB fab service (JLCPCB, PCBWay, etc.)
 - Why electrolytic capacitors for filtering (radial form factor)
 - PCB footprint assignment and routing
 - Generating Gerber files for fabrication
+- Design rule basics and board edge cuts
+- Reading and interpreting circuit diagrams
 
 ---
 
